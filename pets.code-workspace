@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../project/.bolt"
+		},
+		{
+			"path": "../project/src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "src"
+	}
+}
